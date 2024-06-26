@@ -1,5 +1,4 @@
 # Trabajo de Software Skills
-#Grupo 7
 
 #......................................
 # Modelo Logístico - Cliente default
